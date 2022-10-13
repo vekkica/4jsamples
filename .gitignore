@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/4JSamples.WebApi/.vs
+/4JSamples.WebApi/4JSamples.Console/bin/Debug/net6.0
+/4JSamples.WebApi/4JSamples.Console/obj
+/4JSamples.WebApi/4JSamples.WebApi/bin/Debug/net6.0
+/4JSamples.WebApi/4JSamples.WebApi/obj
